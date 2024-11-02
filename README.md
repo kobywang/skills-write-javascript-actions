@@ -8,8 +8,6 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-[![JS Actions](https://github.com/kobywang/skills-write-javascript-actions/actions/workflows/my-workflow.yml/badge.svg?branch=main&event=issues)](https://github.com/kobywang/skills-write-javascript-actions/actions/workflows/my-workflow.yml)
-
 # Write JavaScript Actions
 
 _Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow._
